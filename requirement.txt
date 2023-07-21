@@ -1,0 +1,10 @@
+pandas==2.0.3
+Pillow==9.5.0
+stqdm==0.0.5
+streamlit==1.24.0
+streamlit_option_menu==0.3.6
+scikit-learn==1.3.0
+<<<<<<< HEAD
+=======
+matplotlib==3.7.1
+>>>>>>> 964f8dfa174d2f0b2bae31b705f8a34553189d15
